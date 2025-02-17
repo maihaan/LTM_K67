@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LTM_K67\SocketFileServer\bin\Debug\SocketFileServer.exe.config
+C:\Users\Admin\source\repos\LTM_K67\SocketFileServer\bin\Debug\SocketFileServer.exe
+C:\Users\Admin\source\repos\LTM_K67\SocketFileServer\bin\Debug\SocketFileServer.pdb
+C:\Users\Admin\source\repos\LTM_K67\SocketFileServer\obj\Debug\SocketFileServer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LTM_K67\SocketFileServer\obj\Debug\SocketFileServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTM_K67\SocketFileServer\obj\Debug\SocketFileServer.exe
+C:\Users\Admin\source\repos\LTM_K67\SocketFileServer\obj\Debug\SocketFileServer.pdb

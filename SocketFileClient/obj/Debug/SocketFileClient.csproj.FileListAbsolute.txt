@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LTM_K67\SocketFileClient\bin\Debug\SocketFileClient.exe.config
+C:\Users\Admin\source\repos\LTM_K67\SocketFileClient\bin\Debug\SocketFileClient.exe
+C:\Users\Admin\source\repos\LTM_K67\SocketFileClient\bin\Debug\SocketFileClient.pdb
+C:\Users\Admin\source\repos\LTM_K67\SocketFileClient\obj\Debug\SocketFileClient.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LTM_K67\SocketFileClient\obj\Debug\SocketFileClient.Form1.resources
+C:\Users\Admin\source\repos\LTM_K67\SocketFileClient\obj\Debug\SocketFileClient.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTM_K67\SocketFileClient\obj\Debug\SocketFileClient.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTM_K67\SocketFileClient\obj\Debug\SocketFileClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTM_K67\SocketFileClient\obj\Debug\SocketFileClient.exe
+C:\Users\Admin\source\repos\LTM_K67\SocketFileClient\obj\Debug\SocketFileClient.pdb
