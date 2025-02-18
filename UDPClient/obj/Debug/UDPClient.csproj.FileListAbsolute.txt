@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LTM_K67\UDPClient\bin\Debug\UDPClient.exe.config
+C:\Users\Admin\source\repos\LTM_K67\UDPClient\bin\Debug\UDPClient.exe
+C:\Users\Admin\source\repos\LTM_K67\UDPClient\bin\Debug\UDPClient.pdb
+C:\Users\Admin\source\repos\LTM_K67\UDPClient\obj\Debug\UDPClient.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LTM_K67\UDPClient\obj\Debug\UDPClient.Form1.resources
+C:\Users\Admin\source\repos\LTM_K67\UDPClient\obj\Debug\UDPClient.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTM_K67\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTM_K67\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTM_K67\UDPClient\obj\Debug\UDPClient.exe
+C:\Users\Admin\source\repos\LTM_K67\UDPClient\obj\Debug\UDPClient.pdb

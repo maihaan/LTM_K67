@@ -59,5 +59,10 @@ namespace Socket_Client
             // Bước 6: Ngắt kết nối
             sk.Disconnect(false);
         }
+
+        private void cbNguoiGui_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            this.Text = cbNguoiGui.Text;
+        }
     }
 }

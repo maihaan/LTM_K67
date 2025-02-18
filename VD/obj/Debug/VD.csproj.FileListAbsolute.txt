@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LTM_K67\VD\bin\Debug\VD.exe.config
+C:\Users\Admin\source\repos\LTM_K67\VD\bin\Debug\VD.exe
+C:\Users\Admin\source\repos\LTM_K67\VD\bin\Debug\VD.pdb
+C:\Users\Admin\source\repos\LTM_K67\VD\obj\Debug\VD.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LTM_K67\VD\obj\Debug\VD.Form1.resources
+C:\Users\Admin\source\repos\LTM_K67\VD\obj\Debug\VD.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTM_K67\VD\obj\Debug\VD.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTM_K67\VD\obj\Debug\VD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTM_K67\VD\obj\Debug\VD.exe
+C:\Users\Admin\source\repos\LTM_K67\VD\obj\Debug\VD.pdb

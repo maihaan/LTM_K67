@@ -110,6 +110,7 @@ namespace Socket_Client
             this.cbNguoiGui.Name = "cbNguoiGui";
             this.cbNguoiGui.Size = new System.Drawing.Size(327, 21);
             this.cbNguoiGui.TabIndex = 5;
+            this.cbNguoiGui.SelectedIndexChanged += new System.EventHandler(this.cbNguoiGui_SelectedIndexChanged);
             // 
             // Form1
             // 

@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\LTM_K67\UdpServer\bin\Debug\UdpServer.exe.config
+C:\Users\Admin\source\repos\LTM_K67\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\Admin\source\repos\LTM_K67\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\Admin\source\repos\LTM_K67\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTM_K67\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\Admin\source\repos\LTM_K67\UdpServer\obj\Debug\UdpServer.pdb
